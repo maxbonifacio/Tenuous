@@ -1,2 +1,2 @@
 # Tenuous
-A music theory library for Node.js
+A music theory webapp using Node.js

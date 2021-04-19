@@ -1,0 +1,19 @@
+{
+  "name": "tenuous",
+  "version": "1.0.0",
+  "description": "A musical training website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbonifacio/Tenuous.git"
+  },
+  "author": "Maxim Bonifacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxbonifacio/Tenuous/issues"
+  },
+  "homepage": "https://github.com/maxbonifacio/Tenuous#readme"
+}
